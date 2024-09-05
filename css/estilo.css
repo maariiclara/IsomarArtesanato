@@ -1,0 +1,139 @@
+*{margin:0;
+padding:0;
+} /* Não deixar que os itens da página atinjam as estremidades */
+
+/* align-itens: center; = centraliza */
+
+body{
+    background-color: rgb(184, 155, 211); /* cor do fundo */ 
+    font-family: 'Times New Roman', Times, serif; /* tipo da fonte */ 
+    font-size: 20px; /* tamanho da fonte */ 
+    font-style: normal; /* estilo da fonte */ 
+}
+
+hr{
+    display: block; /* Não permite movimentação da linha */
+    margin-top: 0.5em; /* Espaçamento entre o topo da margem */
+    margin-bottom: 0.5em; /* Espaçamento entre a parte */
+    margin-left: auto; 
+    margin-right: auto;
+    border-style: inset; /* Estilo da borda */
+    border-width: 1px; /* Largura da borda */
+    border-color: black; /* darkslategray Cor da borda */
+}
+
+header img{ /* Definições da imagem que estão dentro do cabeçalho */
+    width: 100px; /* Largura da imagem */
+    height: 100px; /* Altura da imagem */
+    margin: 10px; /* Margem da imagem */
+}
+
+header h1{ /* Definições do título que estão dentro do cabeçalho */
+    color: rgb(127, 31, 172); /* Cor do texto */ 
+    /* -webkit-text-stroke: 1px white;  Contorno do texto e a espessura */
+    padding-top: 30px; /* Espaçamento entre o topo e o texto */
+}
+
+#menu ul{ /* ID para lista */
+    list-style: none; /* Sem nenhum estilo na lista, tira os pontos */
+    margin-left: 400px;
+}
+
+#menu li{
+    position: relative; /* Posição relativa do item da lista */
+}
+
+#menu li a{ /* a = link */
+    color: black; /* cadetblue Cor do texto do menu */
+    text-decoration: none; /* Sem estilo no texto */
+    padding: 5px 10px; /* Espaçamento entre os textos no Menu */
+    display: block; /* Opções do menu bloqueadas na posição atual */
+}
+
+#menu li a:hover{ /* trocar a cor do fundo, quando passar o mouse */
+    background: rgb(124, 20, 188); /* Fundo do efeito */
+    color: #fff; /* Cor do texto no fundo */
+    text-shadow: 0px 0px 5px #fff; /* Sombra do efeito */
+}
+
+#menu li ul{
+    position: absolute;
+    top: 25px; /* Espaçamento do topo */
+    left: 0; /* Espaçamento da esquerda */
+    background-color: #fff;
+    display: none;
+}
+
+menu li:hover ul, #menu li.over ul{
+    display: block; /* Durante o efeito não moverá o menu */
+}
+
+header, #menu, #menu ul{
+    display: flex;
+}
+
+footer{
+    display: flex; /* Utiliza flexbox para organizar os elementos */
+    justify-content: flex-end; /* Alinha os elementos para o final da linha */
+    align-items: center; /* Alinha os elementos verticalmente ao centro */
+    padding: 20px; /* Adiciona um espaçamento interno */
+}
+
+footer img{
+    width: 100px;
+    height: 100px;
+}
+
+footer h1{
+    color: rgb(127, 31, 172);
+    margin-right: 20px; /* Espaçamento entre o texto e a imagem */
+}
+
+#menu{
+    list-style: none;
+    margin: 0 auto; /* Centraliza horizontalmente o menu */
+    margin-top: 45px; /* Ajusta a margem superior */
+}
+
+table{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+td{
+    padding: 10px;
+}
+
+.img{
+    display: block;
+    margin: 0 auto;
+    width: 300px; /* Ajuste a largura conforme necessário */
+    height: 300px; /* Ajuste a altura conforme necessário */
+}
+
+.prod{
+    background-color: #fff;
+    color: rgb(124, 20, 188);
+}
+
+p{
+    text-align: center;
+}
+
+.link{
+    color: black;
+}
+
+/* rgb(205, 191, 223) */
+button{
+    background-color: beige;
+    color: rgb(124, 20, 188);
+    text-size-adjust: 15;
+    padding: 8px 18px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
