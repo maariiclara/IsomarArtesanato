@@ -76,12 +76,6 @@ Depois, abra o arquivo `index.html` no navegador.
 
 ---
 
-## 📸 Preview do Projeto
-
-> Adicione aqui imagens ou prints do site futuramente.
-
----
-
 ## 👩‍💻 Desenvolvido por
 
 **Maria Clara Sousa**  
