@@ -1,47 +1,88 @@
-🦋 Isomar Artesanato
+# 🦋 Isomar Artesanato
 
-Projeto desenvolvido durante o curso técnico no SENAI com o objetivo de criar um site para divulgação de produtos artesanais da marca Isomar Artesanato. O site foi pensado para apresentar os produtos de forma organizada, visualmente agradável e acessível aos clientes.
+Projeto desenvolvido durante o curso técnico no **SENAI**, com o objetivo de criar um site para divulgação de produtos artesanais da marca **Isomar Artesanato**.
 
-✨ Sobre o Projeto
+O projeto foi desenvolvido pensando em uma interface simples, organizada e visualmente agradável, permitindo apresentar os produtos de forma clara e acessível aos clientes.
 
-O site possui uma interface simples e intuitiva, destacando os principais produtos artesanais da loja, além de seções institucionais para apresentar a marca e facilitar o contato com os clientes.
+---
 
-📌 Funcionalidades
-Página inicial com apresentação da marca
-Menu de navegação entre as seções do site
-Catálogo de produtos artesanais
-Exibição de imagens, nomes e preços dos produtos
-Botões de compra
-Seção “Quem Somos”
-Área de contato
-🛍️ Produtos Apresentados
+## ✨ Funcionalidades
 
-Alguns dos produtos exibidos no site:
+- 🏠 Página inicial com apresentação da marca
+- 📖 Seção “Quem Somos”
+- 🛍️ Catálogo de produtos artesanais
+- 💲 Exibição de preços dos produtos
+- 🖼️ Organização visual dos itens
+- 📞 Área de contato
+- 🔗 Menu de navegação entre seções
 
-Toalha de Lavabo
-Porta Guardanapo + Guardanapo
-Cobre Jarra
-Guardanapo Bordado Personalizado
-Bastidor Bordado
-Naninho Personalizado
-Pano de Prato
-Porta Panetone
+---
 
-💻 Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
+## 🛒 Produtos Apresentados
 
-🎯 Objetivo do Projeto
+- Toalha de Lavabo
+- Porta Guardanapo + Guardanapo
+- Cobre Jarra
+- Guardanapo Bordado Personalizado
+- Bastidor Bordado
+- Naninho Personalizado
+- Pano de Prato
+- Porta Panetone
 
-O principal objetivo deste projeto foi colocar em prática os conhecimentos adquiridos durante as aulas no SENAI, desenvolvendo um site completo com foco em estruturação de páginas web, estilização e organização de conteúdo.
+---
 
-📚 Aprendizados
+## 💻 Tecnologias Utilizadas
 
-Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-Estruturação de páginas com HTML
-Estilização com CSS
-Organização visual de interfaces
-Responsividade básica
-Experiência do usuário (UX)
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto teve como principal objetivo colocar em prática os conhecimentos adquiridos durante as aulas no SENAI, desenvolvendo um site completo utilizando tecnologias web.
+
+Além disso, o projeto ajudou no desenvolvimento de habilidades relacionadas à estruturação de páginas, estilização, organização visual e experiência do usuário.
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento do projeto, foram trabalhados conceitos como:
+
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Organização de layouts
+- Criação de interfaces intuitivas
+- Responsividade básica
+- Boas práticas de desenvolvimento web
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Clone este repositório:
+
+```bash
+git clone LINK-DO-REPOSITORIO
+```
+
+Depois, abra o arquivo `index.html` no navegador.
+
+---
+
+## 📸 Preview do Projeto
+
+> Adicione aqui imagens ou prints do site futuramente.
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Maria Clara Sousa**  
+Projeto acadêmico desenvolvido no SENAI 💙
